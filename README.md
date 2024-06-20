@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Cleanup Docs languages (#7865)
